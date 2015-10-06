@@ -8,6 +8,8 @@ class Highway < Formula
   url "https://github.com/tkengo/highway/archive/master.zip"
   sha256 ""
 
+  version "1.0.0"
+
   # depends_on "cmake" => :build
   depends_on "autoconf" => :build
   depends_on "automake" => :build
