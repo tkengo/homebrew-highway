@@ -6,7 +6,7 @@ class Highway < Formula
   desc "High performance source code search tool."
   homepage "https://github.com/tkengo/highway/"
   url "https://github.com/tkengo/highway/archive/v1.0.0.tar.gz"
-  sha256 "2925d97adabd16c20fb1142ab8608841fc09397fb8ffc77e17bce97cf2554e87"
+  sha256 "5c77b2e8037e65eb0658121c00c97f527182c308c6e0d55e3e8596d89cafd564"
 
   version "1.0.0"
 
