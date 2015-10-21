@@ -4,7 +4,7 @@ class Highway < Formula
   url "https://github.com/tkengo/highway/archive/v1.0.1.tar.gz"
   sha256 "9716804b61d1c3e0bdcc0951d14458cbe139b344d66357eb503395bd61a4576c"
 
-  version "1.0.0"
+  version "1.0.1"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
