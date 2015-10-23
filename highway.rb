@@ -11,6 +11,7 @@ class Highway < Formula
   depends_on "gperftools" => :build
 
   def install
+    system "mkdir", "-p config"
     system "aclocal", "-I #{HOMEBREW_PREFIX}/share/aclocal"
     system "autoconf"
     system "autoheader"
