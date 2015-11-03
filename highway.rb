@@ -1,10 +1,10 @@
 class Highway < Formula
   desc "High performance source code search tool."
   homepage "https://github.com/tkengo/highway/"
-  url "https://github.com/tkengo/highway/archive/v1.0.2.tar.gz"
-  sha256 "142217828de393a6fdb87eabb677d2c7af4298872e3071523dff08e7242f93c5"
+  url "https://github.com/tkengo/highway/archive/v1.1.0.tar.gz"
+  sha256 "511de6eef56705217ccf6c920bdb44467fe0bdc338c6c0fe82482fb8f235b626"
 
-  version "1.0.2"
+  version "1.1.0"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
